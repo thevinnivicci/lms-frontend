@@ -1,7 +1,12 @@
 import "./App.css";
+import { Routes } from "react-router-dom";
 
 function App() {
-  return <h1 className="text-xl">hello</h1>;
+  return (
+    <Routes>
+      {/* {} */}
+    </Routes>
+  );
 }
 
 export default App;
